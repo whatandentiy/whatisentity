@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whatandentiy
+- 👋 Hi, I’m @whatisentity
 - 👀 I’m interested in ...Datasets in the cloud
 - 🌱 I’m currently learning ...Datasets in the cloud
 - 💞️ I’m looking to collaborate on ...Datasets in the cloud
